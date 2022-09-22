@@ -1,4 +1,6 @@
 
+--Alumno: Juan Esteban Valencia Gonzalez Generacion 16 Academlo
+
 CREATE TABLE "todos" (
   "id" uuid PRIMARY KEY,
   "task" varchar NOT NULL,
